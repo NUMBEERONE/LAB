@@ -95,6 +95,7 @@ sudo usermod -aG docker $USER
 Restart WSL after this.
 
 ---
+https://hub.docker.com/u/vulnerables
 
 ## 🧨 Deploy vulnerable apps
 
